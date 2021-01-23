@@ -4,8 +4,6 @@
 
 (function()
 {   
-    "use strict";
-    
     function displayHomePage()
     {
         let paragraphOneContent = "This is my first paragraph";

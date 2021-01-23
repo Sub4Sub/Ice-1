@@ -1,9 +1,9 @@
 {
   "name": "week2",
   "version": "1",
-  "description": "Our first In Class Exercise",
+  "description": "desc",
   "main": "index.js",
-  "repository": "https://github.com/Sub4Sub/Ice-1",
+  "repository": "b",
   "author": "Brett Tindall",
   "license": "MIT",
   "dependencies": {
